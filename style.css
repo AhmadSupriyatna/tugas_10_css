@@ -1,0 +1,16 @@
+body{
+    background-image: linear-gradient(to top right, red, white);
+}
+.satu{
+    width: 60%;
+    height: 60%;
+    float: right;
+    background-image:radial-gradient(at bottom, white, blue);
+}
+.dua{
+    margin-top: 20px;
+    width: 60%;
+    height: 25%;
+    float: right;
+    background-image:linear-gradient(to right,white, blue, white);
+}
